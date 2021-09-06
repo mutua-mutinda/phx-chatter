@@ -1,4 +1,6 @@
 defmodule Chatter do
+  use FontAwesome
+
   @moduledoc """
   Chatter keeps the contexts that define your domain
   and business logic.
